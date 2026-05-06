@@ -27,18 +27,18 @@ A full-stack hotel management system built using PHP, MySQL, HTML, CSS, and Java
 
 ![User1](screenshots/p1.jpg)
 ![User2](screenshots/p2.jpg)
-![User3](screenshots/p3.jpg)
+![User3](screenshots/p3.png)
 ![User4](screenshots/p4.jpg)
-![User5](screenshots/p5.jpg)
-![User6](screenshots/p6.jpg)
+![User5](screenshots/p5.png)
+![User6](screenshots/p6.png)
 
 ---
 
 ### 🛠️ Admin Panel
 
-![Admin1](screenshots/a1.jpg)
-![Admin2](screenshots/a2.jpg)
-![Admin3](screenshots/a3.jpg)
+![Admin1](screenshots/a1.png)
+![Admin2](screenshots/a2.png)
+![Admin3](screenshots/a3.png)
 
 ---
 
