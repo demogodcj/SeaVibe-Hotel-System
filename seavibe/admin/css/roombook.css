@@ -1,0 +1,43 @@
+body {
+    background: #f8f9fa;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+/* TABLE SAME STYLE */
+table {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    width: 100%;
+}
+
+/* 🔥 SAME BLUE HEADER */
+th {
+    background: #0d6efd;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 8px;
+    white-space: nowrap;
+    margin: 2px;
+}
