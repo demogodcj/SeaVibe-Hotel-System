@@ -58,6 +58,9 @@ A full-stack hotel management system built using PHP, MySQL, HTML, CSS, and Java
 2. Import database in phpMyAdmin
 3. Run:
    http://localhost/seavibe
+4. For Staff/Admin
+   user/email - admin@seavibe.com
+   password - admin123  
 
 ---
 
