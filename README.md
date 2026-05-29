@@ -62,8 +62,3 @@ A full-stack hotel management system built using PHP, MySQL, HTML, CSS, and Java
    user/email - admin@seavibe.com
    password - admin123  
 
----
-
-## 👨‍💻 Author
-
-Ceaser
